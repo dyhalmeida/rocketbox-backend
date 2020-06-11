@@ -12,7 +12,7 @@ require('./database/index').connection();
 
 io.on("connection", socket => {
 
-  socket.on("connectionRoom", box => {
+  socket.on("connectRoom", box => {
     socket.join(box);
   })
 
