@@ -1,0 +1,6 @@
+[submodule "rocketbox-frontend"]
+	path = rocketbox-frontend
+	url = git@github.com:dyhalmeida/rocketbox-frontend.git
+[submodule "rocketbox-mobile"]
+	path = rocketbox-mobile
+	url = git@github.com:dyhalmeida/rocketbox-mobile.git
